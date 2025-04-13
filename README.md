@@ -41,18 +41,15 @@ Database management
 
 File storage for blog content and media
 
-📷 Screenshots
-You can add screenshots here later if you have them
-
 📚 Installation & Setup
 bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/your-username/blog-site.git
+git clone https://github.com/varshitkhulbe/blogEra.git
 
 # Navigate to project directory
-cd blog-site
+cd blogEra
 
 # Install dependencies
 npm install
